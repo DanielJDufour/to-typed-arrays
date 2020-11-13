@@ -1,0 +1,26 @@
+{
+  "name": "to-typed-arrays",
+  "version": "0.0.0",
+  "description": "Convert an ArrayBuffer or Buffer to All Valid Typed Arrays",
+  "main": "to-typed-arrays.js",
+  "scripts": {
+    "format": "npx prettier --arrow-parens=avoid --trailing-comma=none --write *.js",
+    "test": "ava --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielJDufour/to-typed-arrays.git"
+  },
+  "keywords": [
+    "array",
+    "typed",
+    "uint8array",
+    "uint16array"
+  ],
+  "author": "Daniel J. Dufour",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/DanielJDufour/to-typed-arrays/issues"
+  },
+  "homepage": "https://github.com/DanielJDufour/to-typed-arrays#readme"
+}
