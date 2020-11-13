@@ -1,6 +1,6 @@
 {
   "name": "to-typed-arrays",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Convert an ArrayBuffer or Buffer to All Valid Typed Arrays",
   "main": "to-typed-arrays.js",
   "scripts": {
